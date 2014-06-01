@@ -1,3 +1,13 @@
+vyatta-cfg-quagga (0.19.0+osvx1+projectx1) unstable; urgency=medium
+
+  [ Kim Hagen ]
+  * Bug #186 - RIP passive-interface "default" missing from config template
+
+  [ Valentin Yakovenkov ]
+  * Added pptp-client support
+
+ -- Valentin Yakovenkov <yakovenkov@gmail.com>  Sun, 01 Jun 2014 20:50:55 +0400
+
 vyatta-cfg-quagga (0.19.0+vyos1+helium5) unstable; urgency=low
 
   [ Stig Thormodsrud ]
